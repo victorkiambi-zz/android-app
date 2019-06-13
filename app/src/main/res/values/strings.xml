@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="home_tab">Home Tab</string>
+    <string name="about_tab">About Tab</string>
+    <string name="title">title</string>
+    <string name="genre">genre</string>
+</resources>
